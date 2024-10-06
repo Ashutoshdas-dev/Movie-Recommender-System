@@ -57,7 +57,7 @@ Make sure to explore the data, handle any missing values, and perform necessary 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/movie-recommender-system.git
+   git clone https://github.com/Ashutoshdas-dev/Movie-Recommender-System
    cd movie-recommender-system
    ```
 
@@ -86,7 +86,7 @@ Make sure to explore the data, handle any missing values, and perform necessary 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/movie-recommender-system/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page] https://github.com/Ashutoshdas-dev/Movie-Recommender-System.
 
 ## 📝 License
 
@@ -100,4 +100,4 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Ashutosh
